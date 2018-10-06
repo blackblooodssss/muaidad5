@@ -1,6 +1,6 @@
 token=NDk3OTM1MTc1MTEyNzIwMzk0.DpmbBQ.27JEqR8M8BzuPNEIRJuy9R4cIWs
 owner=469546024839413764
 prefix=d
-game=Type dhelp
+game=Type dplay
 stayinchannel=true
 songinstatus=true
